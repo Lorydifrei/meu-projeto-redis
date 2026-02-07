@@ -9,10 +9,4 @@ Este projeto demonstra uma aplicação Node.js utilizando Express e Redis para c
 - Docker
 - Docker Compose
 
-## Como executar o projeto
 
-1. Clone o repositório
-2. Execute o comando:
-
-```bash
-docker-compose up --build
