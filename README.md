@@ -9,8 +9,4 @@ Este projeto demonstra uma aplicação Node.js utilizando Express e Redis para c
 - Docker
 - Docker Compose
 
-## Como executar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/Lorydifrei/meu-projeto-redis.git
